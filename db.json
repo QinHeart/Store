@@ -1,0 +1,479 @@
+{
+  "recommends": [
+    {
+      "id": 1,
+      "title": "a.avif",
+      "url": "/images/0/a.jpg"
+    },
+    {
+      "id": 2,
+      "title": "b.avif",
+      "url": "/images/0/b.jpg"
+    },
+    {
+      "id": 3,
+      "title": "c.avif",
+      "url": "/images/0/c.jpg"
+    }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "name": "vivo iQOO 8 Pro",
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "vivo iQOO 8 Pro",
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "vivo iQOO 8 Pro",
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "vivo iQOO 8 Pro",
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "categoryId": "1",
+      "price": 3999,
+      "goodcomment": "98%",
+      "poster": "/images/1/poster.avif",
+      "slides": [
+        "/images/1/detail_1.avif",
+        "/images/1/detail_2.avif",
+        "/images/1/detail_3.avif"
+      ],
+      "desc": [
+        "详情数据"
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "content": "拍照效果：效果很好;运行速度：非常快",
+      "creationTime": "2021-05-26",
+      "score": "4",
+      "userImageUrl": "/avatar/avatar1.jpg",
+      "nickname": "铁锤",
+      "imgUrl": "/comments/comment1.jpg"
+    },
+    {
+      "content": "质量很好",
+      "creationTime": "2021-05-25",
+      "score": "5",
+      "userImageUrl": "/avatar/avatar2.jpg",
+      "nickname": "无情",
+      "imgUrl": "/comments/comment2.jpg"
+    },
+    {
+      "content": "手机用了觉得很不错，商品质量好，发货也挺快的，总之就是很赞了，东西已经收到！手感不错！用料扎实！质量很好！平常用基本没有问题！",
+      "creationTime": "2021-05-24",
+      "score": "3",
+      "userImageUrl": "/avatar/avatar3.jpg",
+      "nickname": "诸葛",
+      "imgUrl": "/comments/comment3.jpg"
+    },
+    {
+      "content": "屏幕音效：不错用着",
+      "creationTime": "2021-05-23",
+      "score": "5",
+      "userImageUrl": "/avatar/avatar4.jpg",
+      "nickname": "西门",
+      "imgUrl": "/comments/comment4.jpg"
+    },
+    {
+      "content": "快递物流很快，手机质量也不错，好评！",
+      "creationTime": "2021-05-22",
+      "score": "4",
+      "userImageUrl": "/avatar/avatar5.jpg",
+      "nickname": "墩子",
+      "imgUrl": "/comments/comment5.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "荣耀",
+      "class": "国产"
+    },
+    {
+      "id": 2,
+      "title": "华为",
+      "class": "国产"
+    },
+    {
+      "id": 3,
+      "title": "苹果",
+      "class": "国外"
+    },
+    {
+      "id": 4,
+      "title": "小米",
+      "class": "国产"
+    },
+    {
+      "id": 5,
+      "title": "vivo",
+      "class": "国产"
+    },
+    {
+      "id": 6,
+      "title": "海信",
+      "class": "国产"
+    },
+    {
+      "id": 7,
+      "title": "三星",
+      "class": "国外"
+    }
+  ],
+  "carts": [
+    {
+      "username": "null",
+      "tel": "10086",
+      "goodId": 1,
+      "number": 1,
+      "checked": false,
+      "price": 3999,
+      "poster": "/images/1/poster.avif",
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "id": 1
+    },
+    {
+      "username": "null",
+      "tel": "10086",
+      "goodId": 2,
+      "number": 2,
+      "checked": false,
+      "price": 3999,
+      "poster": "/images/1/poster.avif",
+      "title": "vivo iQOO 8 Pro 8GB+256GB 赛道版 骁龙888Plus 120W闪充 2K超视网膜屏 超声波指纹 5G全网通手机iqoo8pro",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "nickName": "饮冰",
+      "gender": 1,
+      "language": "zh_CN",
+      "city": "Dalian",
+      "province": "Liaoning",
+      "country": "China",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAvz1Q85rbZnRmKicDicF3uwySCicaY25pU2XKqItGzeQf3y1ibsr6raqnLnB2jBGrj7mzESGCHEO83Q/132",
+      "tel": "111",
+      "id": 1
+    },
+    {
+      "nickName": "饮冰",
+      "gender": 1,
+      "language": "zh_CN",
+      "city": "Dalian",
+      "province": "Liaoning",
+      "country": "China",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAvz1Q85rbZnRmKicDicF3uwySCicaY25pU2XKqItGzeQf3y1ibsr6raqnLnB2jBGrj7mzESGCHEO83Q/132",
+      "tel": "123",
+      "id": 2
+    },
+    {
+      "nickName": "饮冰",
+      "gender": 1,
+      "language": "zh_CN",
+      "city": "Dalian",
+      "province": "Liaoning",
+      "country": "China",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAvz1Q85rbZnRmKicDicF3uwySCicaY25pU2XKqItGzeQf3y1ibsr6raqnLnB2jBGrj7mzESGCHEO83Q/132",
+      "tel": "124",
+      "id": 3
+    },
+    {
+      "nickName": "饮冰",
+      "gender": 1,
+      "language": "zh_CN",
+      "city": "Dalian",
+      "province": "Liaoning",
+      "country": "China",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAvz1Q85rbZnRmKicDicF3uwySCicaY25pU2XKqItGzeQf3y1ibsr6raqnLnB2jBGrj7mzESGCHEO83Q/132",
+      "tel": "345",
+      "id": 4
+    },
+    {
+      "nickName": "饮冰",
+      "gender": 1,
+      "language": "zh_CN",
+      "city": "Dalian",
+      "province": "Liaoning",
+      "country": "China",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAvz1Q85rbZnRmKicDicF3uwySCicaY25pU2XKqItGzeQf3y1ibsr6raqnLnB2jBGrj7mzESGCHEO83Q/132",
+      "tel": "456",
+      "id": 5
+    },
+    {
+      "nickName": "null",
+      "gender": 0,
+      "language": "zh_CN",
+      "city": "",
+      "province": "",
+      "country": "",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/KuAUicaJmbchjaa2X66ibsmkm30OcUmpadg1NYL182HkCLJjQibcmNmBmS7fZL43D5Sw4JNLPicNRyLuS6BHfLYxog/132",
+      "tel": "10086",
+      "id": 6
+    },
+    {
+      "username": {
+        "nickName": "null",
+        "gender": 0,
+        "language": "zh_CN",
+        "city": "",
+        "province": "",
+        "country": "",
+        "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/KuAUicaJmbchjaa2X66ibsmkm30OcUmpadg1NYL182HkCLJjQibcmNmBmS7fZL43D5Sw4JNLPicNRyLuS6BHfLYxog/132"
+      },
+      "tel": "10086",
+      "goodId": 1,
+      "number": 1,
+      "checked": false,
+      "id": 7
+    },
+    {
+      "nickName": "null",
+      "gender": 0,
+      "language": "zh_CN",
+      "city": "",
+      "province": "",
+      "country": "",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/KuAUicaJmbchjaa2X66ibsmkm30OcUmpadg1NYL182HkCLJjQibcmNmBmS7fZL43D5Sw4JNLPicNRyLuS6BHfLYxog/132",
+      "tel": "159",
+      "id": 8
+    },
+    {
+      "nickName": "null",
+      "gender": 0,
+      "language": "zh_CN",
+      "city": "",
+      "province": "",
+      "country": "",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/KuAUicaJmbchjaa2X66ibsmkm30OcUmpadg1NYL182HkCLJjQibcmNmBmS7fZL43D5Sw4JNLPicNRyLuS6BHfLYxog/132",
+      "tel": "0987",
+      "id": 9
+    },
+    {
+      "nickName": "null",
+      "gender": 0,
+      "language": "zh_CN",
+      "city": "",
+      "province": "",
+      "country": "",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/KuAUicaJmbchjaa2X66ibsmkm30OcUmpadg1NYL182HkCLJjQibcmNmBmS7fZL43D5Sw4JNLPicNRyLuS6BHfLYxog/132",
+      "tel": "123456",
+      "id": 10
+    }
+  ],
+  "category": [
+    {
+      "tab": "推荐分类",
+      "serial": "one"
+    },
+    {
+      "tab": "京东超市",
+      "serial": "two"
+    },
+    {
+      "tab": "电脑办公",
+      "serial": "three"
+    },
+    {
+      "tab": "商品酒饮",
+      "serial": "four"
+    },
+    {
+      "tab": "家居厨具",
+      "serial": "five"
+    },
+    {
+      "tab": "数码",
+      "serial": "one"
+    },
+    {
+      "tab": "手机",
+      "serial": "one"
+    },
+    {
+      "tab": "个护清洁",
+      "serial": "one"
+    },
+    {
+      "tab": "家电",
+      "serial": "京东国际"
+    },
+    {
+      "tab": "母婴童装",
+      "serial": "运动户外"
+    }
+  ]
+}
